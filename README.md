@@ -1,0 +1,1 @@
+# ThailandTranslation - TEST
