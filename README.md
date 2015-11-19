@@ -3,7 +3,7 @@
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-1. Please leave a sign to us like Good to merge. Then the PR will be merged.
+1. Please leave a sign to us like **Good to merge**. Then the PR will be merged.
 
 2. Latest translations have been updated for 2nd iCBT. (**NEW**)
 
