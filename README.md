@@ -3,19 +3,21 @@
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
-1. Latest translations have been updated for 2nd iCBT. (**NEW**)
+1. Please leave a sign to us like Good to merge. Then the PR will be merged.
 
-2. {memo X} have been updated to English files. (**NEW**)
+2. Latest translations have been updated for 2nd iCBT. (**NEW**)
 
-3. Please send a separate Pull Request for EACH FILE. 
+3. {memo X} have been updated to English files. (**NEW**)
 
-4. Please use the latest file version before editing the translations 
+4. Please send a separate Pull Request for EACH FILE. 
 
-5. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
+5. Please use the latest file version before editing the translations 
 
-6. Scroll down for a preview of how real-time translation works in game! 
+6. Have you checked out our official Forums? Click [**HERE**](https://forum.treeofsavior.com/) move to the forums for discussion. Please login and click on the github icon to link your github account to it as well.
 
-7. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
+7. Scroll down for a preview of how real-time translation works in game! 
+
+8. Be sure to take a look at the [**Wiki**](https://github.com/Treeofsavior/EnglishTranslation/wiki) page for guides and reminders before sending us your translations.
 
 
 # Tree of Savior Open Text Client (OTC)   
