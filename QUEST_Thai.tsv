@@ -198,16 +198,16 @@ QUEST_20150317_000197	กำลังอธิบาย
 QUEST_20150317_000198	{memo X}บอกรายละเอียดของชิ้นส่วนแห่งคำทำนายที่พบใน Crystal Mine
 QUEST_20150317_000199	{memo X}ข้าไม่รู้หรอกนะว่าเมื่อก่อนเจ้าเก่งกาจยังไงและข้าก็ไม่สนด้วย{nl}แต่ที่นี่ทุกคนต้องทำตามคำสั่งของ Royal Army ไม่เว้นแม้แต่พวกเจ้า อัศวินแห่ง Kaliss{nl}ที่นี่ คำพูดของพวกเราคือกฎ!
 QUEST_20150317_000200	Graverobber Hubertas
-QUEST_20150317_000201
-QUEST_20150317_000202
-QUEST_20150317_000203
-QUEST_20150317_000204
-QUEST_20150317_000205
-QUEST_20150317_000206
-QUEST_20150317_000207
-QUEST_20150317_000208
-QUEST_20150317_000209
-QUEST_20150317_000210
+QUEST_20150317_000201	พออยู่แถวๆ ซากโบราณนี่นานๆ มันทำให้ข้ารู้สึกหลอนชิบเป๋ง{nl}ว่าแต่เจ้าหมอนั่นมันมาทำอะไรที่นี่กันฟะ?
+QUEST_20150317_000202	Graverobber Benjaminas
+QUEST_20150317_000203	{memo X}คนอื่นเรียกเราว่านักปล้นสุสาน  แต่เราชอบเรียกตัวเองว่านักโบราณคดีมากกว่า{nl}พวกเราขุดคุ้ยและหาประโยชน์จากสิ่งของที่ไม่มีใครใช้แล้วพวกนี้{nl}ก็ดีกว่าปล่อยให้พวกมันสูญสลายกลายเป็นฝุ่นไปใช่มั้ยล่ะ?
+QUEST_20150317_000204	A Citizen's Journal
+QUEST_20150317_000205	{memo X}เป็นเวลา 1 ปีมาแล้วหลังจากที่เกิดสงครามกลางเมือง ราคาข้าวของในเมืองพุ่งสูงขึ้นพรวดพราด{nl}นายพล Ruklys has sent for aid, to restore the town's dwindling supplies. {nl}It's been a while since we've had any good news. There's talk about King Kadumel going after the general. {nl}สถานการณ์คงไม่ดีขึ้นในเร็วๆ นี้แน่
+QUEST_20150317_000206	A Sentry's Report
+QUEST_20150317_000207	{memo X}The guard posts have been reinforced in response to King Kadumel's forces' movements in the country. {nl}It's been confirmed that the king commands a large army. {nl}But if General Hayatin can muster enough volunteer soldiers, the incompetent king will likely surrender or retreat.
+QUEST_20150317_000208	A Trader's Log
+QUEST_20150317_000209	{memo X}The city is running out of food and supplies. {nl}(The rest is illegible.)
+QUEST_20150317_000210	{memo X}Rumor has it that Ruklys has heard about the citizens' harsh conditions {nl}and is negotiating with Kadumel for their amnesty.
 QUEST_20150317_000211
 QUEST_20150317_000212
 QUEST_20150317_000213
