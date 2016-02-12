@@ -1,13 +1,13 @@
-##NOTICE (Updated 18-11-2015)
+##NOTICE (Updated 12-02-2016)
 <br>
 **GUIDELINES IN WIKI HAVE BEEN UPDATED** <br>
 **PLEASE CHECK THE [GUIDELINES](https://github.com/Treeofsavior/EnglishTranslation/wiki/Guidelines) BEFORE SENDING YOUR PULL REQUESTS.**
 
 1. Please leave a sign to us like **Good to merge**. Then the PR will be merged.
 
-2. Latest translations have been updated for 2nd iCBT. (**NEW**)
+2. Latest translations have been updated for Steam Test Server. (**NEW**)
 
-3. {memo X} have been updated to English files. (**NEW**)
+3. {memo X} have been removed from English files. (**NEW**)
 
 4. Please send a separate Pull Request for EACH FILE. 
 
